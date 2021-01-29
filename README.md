@@ -21,3 +21,8 @@ sub sequences:
 [[1, 2], [1, 2, 3], [4, 5], [3], [6, 7]] T // Two ways to construct.
 
 [[1, 2], [4, 3, 5]] F //Result will be 1 2 4 3 5, re-ordered.
+
+
+## To build and run:
+g++ --std=c++11 cppConsSeqFromSubSeq.cpp -o seqFromSubSeq
+./seqFromSubSeq
