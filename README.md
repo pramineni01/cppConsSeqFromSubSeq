@@ -6,7 +6,7 @@ Given a sequence like [1, 2, 3, 4, 5], and an array of sub sequences like [[1,2]
 
  
 
-Example:
+#### Example:
 
 sequence: [1, 2, 3, 4, 5] // Assuming no dup
 
